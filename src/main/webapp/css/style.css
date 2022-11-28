@@ -1,0 +1,83 @@
+body {
+	font-size: 16px;
+	max-width: 100%;
+	overflow-x: hidden;
+	color: #444;
+}
+
+.hazul {
+	background: #1572b7 !important;
+}
+
+.azuloscuro {
+	background: #0a3c60 !important;
+}
+
+.container {
+	width: 100%;
+	padding-right: 15px;
+	padding-left: 15px;
+	margin-right: auto;
+	margin-left: auto;
+}
+
+.container-fluid {
+	width: 100%;
+	padding-right: 0px !important;
+	padding-left: 0px !important;
+}
+
+.logo {
+	max-width: 150px;
+	padding-top: 20px;
+	padding-bottom: 12px;
+}
+
+.logohe {
+	min-width: 100% !important;
+	text-align: left !important;
+}
+
+.azuloscuro{
+       height: 40px;
+       background-color:#17181C;
+       text-align: center;
+     }
+
+     .azuloscuro ul{
+        list-style: none;
+        display: inline-block;
+        padding:5px;
+     }
+
+     .azuloscuro ul li{
+         float: left;
+         margin-top: 0px;
+         margin-left:50px;
+         margin-right:50px;
+     }
+     
+      .azuloscuro ul li a {
+         color: yellow;
+         font-weight: bold;
+         text-decoration: none;
+         font-size: 18px;
+         padding: 10px;
+     }
+
+     .azuloscuro ul li a:hover{
+       background-color: #929fb3;
+     }
+     
+     .select-pais {
+    width: 100%;
+    margin-left: 0;
+    margin-right: 0;
+    height: 45px;
+    margin-bottom: 10px;
+    padding-left: 10px;
+    border-radius: 5px;
+    border: solid 1px #ccc;
+    background: #efefef !important;
+}
+
